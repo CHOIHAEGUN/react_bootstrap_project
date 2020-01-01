@@ -1,0 +1,26 @@
+
+.footer-font{
+    background-color: #e9ecef;
+    padding-top: 20px;
+    font-size: 5px;
+}
+.phone {
+    display: inline;
+}
+
+.phoneicon{
+    margin-bottom: 18px;
+}
+.favorite_menu_font{
+    font-size: small;
+}
+.secondary{
+    color: darkgrey;
+}
+.footer_link_style{
+    color:darkgray;
+    /* text-decoration: none; */
+}
+.change_to_register{
+    display: none;
+}
